@@ -1,16 +1,17 @@
-# login_page
+# Flutter Login Page
 
-A new Flutter project.
+A simple Flutter application showcasing a basic login page UI.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This Flutter application demonstrates the implementation of a straightforward login page user interface. The UI includes input fields for username and password, along with a login button that responds to user interactions.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Username and password input fields.
+- Login button with basic interaction.
+- Minimalistic and clean design.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+
