@@ -14,4 +14,4 @@ This Flutter application demonstrates the implementation of a straightforward lo
 
 ## Screenshots
 
-
+<img src="Screenshots/Screenshot-1.png" width="180" alt="Screenshot-1">   <img src="Screenshots/Screenshot-2.png" width="180" alt="Screenshot-2">
